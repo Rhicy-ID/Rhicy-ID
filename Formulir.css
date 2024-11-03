@@ -1,0 +1,27 @@
+.body{
+background-color: green;
+}
+.form {
+  background-color: white;
+  width: 600px;
+  border: 1px solid#f1f1f;
+  margin: 0px auto;
+  padding: 30px;
+}
+.form .bungkus {
+  margin-bottom: 10px;
+}
+.form .bungkus .kotak {
+  width: 600px;
+  display: block;
+  border: 1px solid purple;
+  padding: 5px;
+}
+.form .tombol {
+  background: purple;
+  border: 0px;
+  border-radius: 5px;
+  color: white;
+  padding: 10px 15px 10px 15px;
+}
+  
